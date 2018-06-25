@@ -1,0 +1,16 @@
+body{
+    width:100%;
+    float:left;
+}
+
+.box{
+    width:29%;
+    padding-top:29%;
+    float:left;
+    margin-top:3%;
+    border-radius:6%;
+    margin-left:2.5%;
+    background-color:rgb(255,166,0);
+
+
+}
